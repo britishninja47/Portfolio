@@ -10,8 +10,7 @@ const Hero = (props) => (
       <SectionTitle main center>
         Why Hello There, I'm <br />
         Jeremiah Harriott
-        <h6> Jr. Full-Stack Web Developer of <br />
-        Precursor Designz </h6>
+        <h6> Jr. Full-Stack Web Developer </h6>
       </SectionTitle>
       <SectionText>
       I am a Junior Full-stack Web Developer from Toronto, Canada and aiming to become a stronger web developer and video game developer. I enjoy learning and creating diffrent applications
