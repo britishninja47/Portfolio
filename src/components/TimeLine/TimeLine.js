@@ -46,10 +46,10 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>Who Am I?</SectionTitle>
       <SectionText>
-      At a young age I became obsessed with video games and movies, the storys and characters would always captivate me. I immideatly knew that one day i would be able
+      At a young age I became obsessed with video games and movies, the stories and characters would always captivate me. I immediately knew that one day I would be able
           to design and create interactive apps & video games for others. I slowly found my passion and used it to create ablum covers for my favourite music artists
-        and video game covers to my favourtie games. As i got older i tried many diffrent career paths like Secuirty, Construction and even Technology Sales, but ended up finding my way back to
-      design and programming which ive grown to love even more. Ive been programming for a year now and after recently taking a coding bootcamp "Le Wagon London", feel much mmore confident
+        and video game covers to my favourtie games. As I got older I tried many different career paths like Security, Construction and even Technology Sales, but ended up finding my way back to
+      design and programming which I've grown to love even more. I've been programming for a year now and after recently taking a coding bootcamp "Le Wagon London", feel much more confident
       in my passion to create for others and myself!
       </SectionText>
       <CarouselContainer ref={carouselRef}onScroll={handleScroll}>

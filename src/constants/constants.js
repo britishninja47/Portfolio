@@ -3,7 +3,7 @@ import css from "styled-jsx/css";
 export const projects = [
   {
     title: 'Samurai-Code',
-    description: "This is my first 2 player fighting game i recently created using html, javascript and css style. You can play as either 'Zen' a ronin samurai or D-Knight a lost knight of the round table.",
+    description: "This is my first 2 player fighting game I recently created using html, javascript and css style. You can play as either 'Zen' a ronin samurai or D-Knight a lost knight of the round table.",
       image: '/images/Samurai-code-logo.png',
       tags: ['Html', 'Javascript', 'Css'],
     source: 'https://samurai-code.netlify.app/',

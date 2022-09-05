@@ -8,7 +8,7 @@ const Technologies = () =>  (
      <SectionDivider />
      <SectionTitle>Technology</SectionTitle>
      <SectionText>
-      Becoming a Web developer introduced me to many diffrent languages and skills,
+      Becoming a Web developer introduced me to many different languages and skills,
        from Back-End development to Front-End design.
      </SectionText>
      <List>
