@@ -33,8 +33,8 @@ export const projects = [
     description: 'This poster was made using Figma. This is a ruff draft to a website i am currently buidling for a collection of fan made posters from all types of sports.',
     image: '/images/Boxing-Poster.png',
     tags: ['Figma'],
-    source: 'None',
-    visit: 'https://www.figma.com/proto/6BvRxFR50cw6wT6UhACAxV/Summer-Boxing-Event?node-id=2%3A2',
+    source: 'https://www.figma.com/proto/6BvRxFR50cw6wT6UhACAxV/Summer-Boxing-Event?node-id=2%3A2',
+    visit: '',
     id: 3,
   },
   {
