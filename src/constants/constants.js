@@ -34,7 +34,7 @@ export const projects = [
     image: '/images/Boxing-Poster.png',
     tags: ['Figma'],
     source: 'None',
-    visit: 'https://www.figma.com/proto/6BvRxFR50cw6wT6UhACAxV/Summer-Boxing-Event?node-id=2%3A2&scaling=scale-down',
+    visit: 'https://www.figma.com/proto/6BvRxFR50cw6wT6UhACAxV/Summer-Boxing-Event?node-id=2%3A2',
     id: 3,
   },
   {
